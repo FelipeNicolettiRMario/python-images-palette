@@ -2,7 +2,7 @@ from collections_manipulation import get_top_colors, get_unsimilar_rgbs
 from image_manipulation import create_palette_image, get_colors_from_image, load_image, save_palette_colors
 from math import *
 
-path = 'D:\\Imagens\\tmp\\download (6).jfif'
+path = 'D:\\Imagens\\tmp\\download (7).jfif'
 
 image_loaded = load_image(path)
 colors = get_colors_from_image(image_loaded)
