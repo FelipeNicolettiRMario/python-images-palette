@@ -1,2 +1,4 @@
 env
 __pycache__
+images_colors_extraction.py
+main.py
